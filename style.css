@@ -1,0 +1,21 @@
+#gestures {
+    border-radius: 10px;
+    background-color: lightgreen;
+    width: 100px;
+}
+#camera , #result {
+    border: 2px solid grey;
+    width: 250px;
+    height: 200px;
+}
+label {
+    margin-top: 10px;
+    font-size: 18px;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: lightsalmon;
+}
+label:hover{
+    background-color: rgb(235, 137, 98);
+    transform: scale(1.2);
+}
